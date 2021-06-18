@@ -3,7 +3,7 @@
 </p>
 <center>
 
-###Bootstrap </center>
+### Bootstrap </center>
 <center>
 Sleek, intuitive, and powerful front-end framework for faster and easier web development.
 
@@ -11,10 +11,10 @@ Sleek, intuitive, and powerful front-end framework for faster and easier web dev
 [Report bug](https://www.google.ru/) · [Request feature](https://www.google.ru/) · [Themes](https://www.google.ru/) · [Blog](https://www.google.ru/)
 </center>
 
-##Bootstrap 5 <hr>
+## Bootstrap 5 <hr>
 
 Our default branch is for development of our Bootstrap 5 release. Head to the [`v4-dev` branch](https://www.google.ru/) to view the readme, documentation, and source code for Bootstrap 4.
-##Table of contents <hr>
+## Table of contents <hr>
 
 + [Quick start](https://www.google.ru/)
 + [Status](https://www.google.ru/)
