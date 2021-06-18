@@ -29,7 +29,7 @@ Our default branch is for development of our Bootstrap 5 release. Head to the [`
 + [Thanks](https://www.google.ru/)
 + [Copyright and license](https://www.google.ru/)
 
-##Quick start<hr>
+## Quick start<hr>
 Several quick start options are available:
 + [Download the latest release](https://www.google.ru/)
 + Clone the repo: `git clone https://github.com/twbs/bootstrap.git`
